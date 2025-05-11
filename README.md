@@ -1,6 +1,6 @@
 <img align="right" width="150" src="https://github.com/2plus2cabbage/2plus2cabbage/blob/main/images/2plus2cabbage.png">
 
-<img src="https://github.com/2plus2cabbage/2plus2cabbage/blob/main/images/azure-base.png" alt="azure-base" width="300" align="left">
+<img src="https://github.com/2plus2cabbage/2plus2cabbage/blob/main/images/azure-paloalto-ha.png" alt="azure-paloalto-ha" width="300" align="left">
 <br clear="left">
 
 # Azure Palo Alto Firewall HA and Windows VM Terraform Deployment
